@@ -1,0 +1,7 @@
+	**Relacionamento do tipo CATEGORIA 
+		(OU rel. ente uma entidade genérica e entidade especializada):
+
+	**Conceito de entidade Genérica e entidade especializada.
+
+	** Como é a implementação no banco de dados de ent.genérica e entidade especializada.
+
